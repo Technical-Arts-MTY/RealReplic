@@ -8,7 +8,7 @@ following a simple engine that everyone can use.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Technical%20Arts-MTY-1f6feb">
-<img src="https://img.shields.io/badge/license-MIT-lightgrey">
+<img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey">
 <img src="https://img.shields.io/badge/status-specification-orange">
 </p>
 
@@ -75,4 +75,4 @@ Technical Arts: Aaron C. (ITESM)
 
 ## License
 
-MIT. See [`LICENSE`](LICENSE).
+CC BY-NC-SA 4.0. See [`LICENSE`](LICENSE).
