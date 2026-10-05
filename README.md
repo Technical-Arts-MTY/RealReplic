@@ -7,14 +7,17 @@ following a simple engine that everyone can use.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Technical%20Arts-MTY-1f6feb">
+<img src="https://img.shields.io/badge/EPICS%20in%20IEEE-DT--HRES-1f6feb">
+<img src="https://img.shields.io/badge/Technical%20Arts-MTY-0b1f2a">
 <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey">
 <img src="https://img.shields.io/badge/status-specification-orange">
 </p>
 
-## What this repository is
+## Overview
 
-RealReplic is the Observatory: the application through which a learner watches a system run, tests it, builds on it and requests its physical replica. It is an independent project of Technical Arts and is developed separately from the systems it shows.
+RealReplic is the Observatory: the application through which a learner watches a system run, tests it by changing a parameter, builds on it by solving a design challenge, and requests its physical replica. Systems are composed from a small set of primitives on a simple engine, so that a student in early education and a student in higher education can use the same tool.
+
+This repository is part of the **DT-HRES project, funded by EPICS in IEEE**, and is developed by the Observatory division of Technical Arts. It lives in its own repository, separate from the twin it shows.
 
 Its first system is [DT-HRES-S](https://github.com/Technical-Arts-MTY/DT-HRES-S), the digital twin of a hybrid renewable energy system. That repository keeps the twin (simulator, models, AutoCorrector, telemetry, hardware); this one keeps the platform and never duplicates it.
 
@@ -22,6 +25,16 @@ Its first system is [DT-HRES-S](https://github.com/Technical-Arts-MTY/DT-HRES-S)
 |---|---|
 | `RealReplic` | Platform: user-facing application, composition engine, challenges, export and request flow |
 | `DT-HRES-S` | Pilot system shown in the Observatory |
+
+## Project
+
+| Role | Person | GitHub |
+|---|---|---|
+| Supervisor | Dr. Rasikh Tariq | |
+| Technical lead, DT-HRES project | Aaron Cuevas | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
+| Lead, Observatory division | | [@not-enough-tokens](https://github.com/not-enough-tokens) |
+
+Funding: EPICS in IEEE.
 
 ## The four stages
 
@@ -61,17 +74,16 @@ CONTRIBUTING.md      branches, commits, reviews
 
 ## Development team
 
-Lead: **Braulio M.** (ITESM)
+Observatory division. Add yourself in your first pull request.
 
-| Name | Institution | Role | GitHub |
+| Name | GitHub username | Institution | Role |
 |---|---|---|---|
-| Braulio M. | ITESM | Lead | |
+| | [@not-enough-tokens](https://github.com/not-enough-tokens) | | Division lead |
 | | | | |
 | | | | |
 | | | | |
 | | | | |
-
-Technical Arts: Aaron C. (ITESM)
+| | | | |
 
 ## License
 
