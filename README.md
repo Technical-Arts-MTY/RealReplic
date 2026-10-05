@@ -31,8 +31,8 @@ Its first system is [DT-HRES-S](https://github.com/Technical-Arts-MTY/DT-HRES-S)
 | Role | Person | GitHub |
 |---|---|---|
 | Supervisor | Dr. Rasikh Tariq | |
-| Technical lead, DT-HRES project | Aaron Cuevas | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
-| Lead, Observatory division | | [@not-enough-tokens](https://github.com/not-enough-tokens) |
+| Technical lead, DT-HRES project | Aaron C. | [@Aaron-Cuevas](https://github.com/Aaron-Cuevas) |
+| Lead, Observatory division | Braulio M. | [@not-enough-tokens](https://github.com/not-enough-tokens) |
 
 Funding: EPICS in IEEE.
 
